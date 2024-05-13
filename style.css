@@ -56,6 +56,15 @@ article ul li{
     background-color: #8A7E72;
 }
 
+.side{
+    display: flex;
+}
+
+.side > div{
+    flex-grow: 1;
+}
+
+
 
 
 
